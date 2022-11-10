@@ -19,10 +19,9 @@ results = task_evaluator.compute(
     metric="squad_v2",
     squad_v2_format=True,
 )
+```
 
 https://colab.research.google.com/gist/nclskfm/960d28565395928f6df97894e21541b7/evaluation-square-models.ipynb
-
-```
 
 ## Metric: squad_v2
 
